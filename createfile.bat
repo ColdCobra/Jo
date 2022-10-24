@@ -1,1 +1,1 @@
-mkdir D://JoScripts
+mkdir JoScripts
