@@ -1,1 +1,1 @@
-MD C:\Program Files\JoScripts
+MD D:\JoScripts
